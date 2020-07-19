@@ -1,4 +1,4 @@
-# Summury App "Money Transfer"
+# Summary App "Money Transfer"
 
 ## Definition
 
