@@ -28,4 +28,8 @@ Positive testing:
 
 ## Recomendation
 
+<<<<<<< HEAD
 For large numbers Uue type long instead type int 
+=======
+For large numbers Uue type long instead type int 
+>>>>>>> origin/master
